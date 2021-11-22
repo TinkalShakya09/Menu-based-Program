@@ -1,6 +1,6 @@
 # Menu-based-Program
 
-## if you want to use docker command so run the all commands and Use it...
+## if you want to use docker command so firstly run the all commands and then after that Use it...
 
 To make the Directory
 >>mkdir docker_command
